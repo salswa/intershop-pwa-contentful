@@ -1,4 +1,4 @@
-# Intershop Progressive Web App
+# Intershop Progressive Web App #
 
 Welcome to the Intershop PWA project!
 
